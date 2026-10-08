@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a31614e4aadb528f",
+        "id": "835a7ec912516a28",
         "type": "tabs",
         "children": [
           {
-            "id": "ca2f6cc245e2074b",
+            "id": "09edbb8e43ac62aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "основы проектирования бд/07.10.md",
+                "file": "информационные технологии/Ps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07.10"
-            }
-          },
-          {
-            "id": "cf935ae8eedf6577",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Без названия.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Без названия"
-            }
-          },
-          {
-            "id": "8e978d2af1b3dd68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "основы проектирования бд/07.10.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "07.10"
+              "title": "Ps"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1baf137df49e4f38",
@@ -215,23 +185,30 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "8e978d2af1b3dd68",
+  "active": "09edbb8e43ac62aa",
   "lastOpenFiles": [
-    "теория баз данных. программирование MS SQL Server/08.09.md",
-    "основы проектирования бд/07.10.md",
-    "теория баз данных. программирование MS SQL Server/17.09.md",
+    "Pasted image 20261008115001.png",
+    "Pasted image 20261008110823.png",
+    "Pasted image 20261008110630.png",
+    "фото/Pasted image 20260930132509.png",
+    "информационные технологии/Ps.md",
+    "информационные технологии",
     "Без названия 1.md",
-    "основы проектирования бд",
     "Без названия.md",
+    "основы проектирования бд/07.10.md",
+    "фото/Pasted image 20261006162735.png",
+    "фото/Pasted image 20261006162700.png",
+    "фото/Pasted image 20261006162236.png",
+    "фото/Pasted image 20261006162050.png",
+    "фото/Pasted image 20261006161808.png",
+    "фото/Pasted image 20261006160601.png",
+    "фото/Pasted image 20261006160537.png",
+    "разработка программных модулей/JUNIOR-MIDDLE Циклы.md",
+    "разработка программных модулей",
+    "теория баз данных. программирование MS SQL Server/08.09.md",
+    "теория баз данных. программирование MS SQL Server/17.09.md",
+    "основы проектирования бд",
     "кс/Практическая работа.md",
-    "Pasted image 20260930132509.png",
-    "фото/Pasted image 20260930131912.png",
-    "фото/Pasted image 20260930131825.png",
-    "фото/Pasted image 20260930131809.png",
-    "фото/Pasted image 20260930131746.png",
-    "фото/Pasted image 20260930131721.png",
-    "фото/Pasted image 20260930131703.png",
-    "фото/Pasted image 20260930131635.png",
     "lab 1.pkt",
     "кс",
     "Без названия 2.md",
@@ -240,8 +217,6 @@
     "практические работы/Практическая работа 04.09.26.md",
     "практические работы/№2,3.md",
     "практические работы/№9.md",
-    "фото/Pasted image 20260924132825.png",
-    "фото/Pasted image 20260924132701.png",
     "практические работы/доп задача.md",
     "практические работы/№5.md",
     "практические работы",
